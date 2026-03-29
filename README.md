@@ -148,9 +148,20 @@ streamlit run app.py
 
 ---
 
-## 📷 项目演示（建议添加）
+## 📷 项目演示
 
-> 
+### 📌 1. 主界面（输入新闻）
+![demo](assets/demo.png)
+
+---
+
+### 📊 2. 分析结果展示
+![result](assets/test.png)
+
+---
+
+### 📜 3. 历史记录功能
+![history](assets/history.png)
 
 ---
 
