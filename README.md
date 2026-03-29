@@ -1,18 +1,3 @@
-对，这下结构清楚了。
-你现在仓库的**真实结构**是：
-
-* `assets/`
-* `core/`
-* `data/`
-* `tests/`
-* `.gitignore`
-* `README.md`
-* `app.py`
-* `config.py`
-* `requirements.txt`
-
-我直接按这个真实结构，给你一版**可直接覆盖的完整 README.md**。
-
 # 📈 MarketPulse：AI 市场情绪与新闻分析助手
 
 > 一个基于大模型的财经新闻结构化分析工具，用于快速提炼新闻关键信息、识别市场情绪，并生成可复盘的分析结果。
